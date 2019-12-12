@@ -5,25 +5,6 @@ This repository is an example for a good public repository README page, and is h
 
 ***Note** - There is a difference between the 'Read me' page of your public repository and the private one, according to the monetization path you chose. Make sure to use your public readme file to send users to your xscode repository page, with an explenation on how you monetize your code.
 
-## Static Code Analysis
-
-Make it easy for users to see the project progress and  other indicators,
-Check out [Shields.io](https://Shields.io) to use or make your own badges:
-
-![](https://img.shields.io/badge/Available%20on-xs%3Acode-blue?style=?style=plastic&logo=appveyor&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF////////VXz1bAAAAAJ0Uk5T/wDltzBKAAAAlUlEQVR42uzXSwqAMAwE0Mn9L+3Ggtgkk35QwcnSJo9S+yGwM9DCooCbgn4YrJ4CIPUcQF7/XSBbx2TEz4sAZ2q1RAECBAiYBlCtvwN+KiYAlG7UDGj59MViT9hOwEqAhYCtAsUZvL6I6W8c2wcbd+LIWSCHSTeSAAECngN4xxIDSK9f4B9t377Wd7H5Nt7/Xz8eAgwAvesLRjYYPuUAAAAASUVORK5CYII=&link=https://xscode.com
-)
-![version](https://img.shields.io/badge/version-0.0.1-blue)
-![build](https://img.shields.io/badge/build-passing-success)
-![contributors](https://img.shields.io/badge/Contributors-4-brightgreen)
-![coverage](https://img.shields.io/badge/coverage-90%25-yellowgreen)
-![backers](https://img.shields.io/badge/backers-1-green)
-![downloads](https://img.shields.io/badge/downloads-10k%2Fmonth-blue)
-![dependencies](https://img.shields.io/badge/dependencies-out%20of%20date-orange)
-![code analysis grade](https://img.shields.io/badge/code%20analysis%20grade-A-green)
-![rating](https://img.shields.io/badge/rating-★★★★☆-green)
-![Gitter](https://img.shields.io/gitter/room/Value_open_source/community)
-![Twitter Follow](https://img.shields.io/twitter/follow/xscode1?style=social)
-![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/ValueOpenSource?style=social)
 
 ## Monetization model
 Make sure to include an explantion on how you monetize your repository, and how your paid version is different than the one offered for free on Github. Use one of these assets and texts in your readme.md file, to help your users get started quickly.
@@ -72,6 +53,27 @@ Subscribe to this project on [xs:code](https:xscode.com/repositories/xx) and get
 ![](https://github.com/xscode-resources/promotion-materials/blob/master/assets/services-available.jpg)
 
 ----
+
+## Static Code Analysis
+
+Make it easy for users to see the project progress and  other indicators,
+Check out [Shields.io](https://Shields.io) to use or make your own badges:
+
+![](https://img.shields.io/badge/Available%20on-xs%3Acode-blue?style=?style=plastic&logo=appveyor&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF////////VXz1bAAAAAJ0Uk5T/wDltzBKAAAAlUlEQVR42uzXSwqAMAwE0Mn9L+3Ggtgkk35QwcnSJo9S+yGwM9DCooCbgn4YrJ4CIPUcQF7/XSBbx2TEz4sAZ2q1RAECBAiYBlCtvwN+KiYAlG7UDGj59MViT9hOwEqAhYCtAsUZvL6I6W8c2wcbd+LIWSCHSTeSAAECngN4xxIDSK9f4B9t377Wd7H5Nt7/Xz8eAgwAvesLRjYYPuUAAAAASUVORK5CYII=&link=https://xscode.com
+)
+![version](https://img.shields.io/badge/version-0.0.1-blue)
+![build](https://img.shields.io/badge/build-passing-success)
+![contributors](https://img.shields.io/badge/Contributors-4-brightgreen)
+![coverage](https://img.shields.io/badge/coverage-90%25-yellowgreen)
+![backers](https://img.shields.io/badge/backers-1-green)
+![downloads](https://img.shields.io/badge/downloads-10k%2Fmonth-blue)
+![dependencies](https://img.shields.io/badge/dependencies-out%20of%20date-orange)
+![code analysis grade](https://img.shields.io/badge/code%20analysis%20grade-A-green)
+![rating](https://img.shields.io/badge/rating-★★★★☆-green)
+![Gitter](https://img.shields.io/gitter/room/Value_open_source/community)
+![Twitter Follow](https://img.shields.io/twitter/follow/xscode1?style=social)
+![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/ValueOpenSource?style=social)
+
 
 ## Table of Contents
 You can include a table of contents in order to allow other developers to navigate your readme file.
