@@ -178,13 +178,14 @@ Add a list of the features included in the project.
 
 ## Contributing
 Contributions are always welcome!
-If you'd like to contribute, please read our [**contributors guidelines**](https://github.com/DekelKan/Public-README-Sample/blob/master/CONTRIBUTING.md), fork the repository and use a feature
-branch.
+If you'd like to contribute, please read our [**contributors guidelines**], fork the repository and use a feature
+branch. 
+
+**IMPORTANT!** Before contributions can be accepted, please fill and sign a CLA, and send it to my@email.com.
+Contributions without a signed CLA cannot be accepted. Find a CLA here: <link to CLA file>
 
 ***Note** - Add a link to 'CONTRIBUTING.md' file for deatils on your code of conduct, and the process for submitting pull requests to you.
 
-IMPORTANT! Before contributions can be accepted, please fill and sign a CLA, and send it to my@email.com.
-Contributions without a signed CLA cannot be accepted. Find a CLA here: <link to CLA file>
 
  
  ## Support & Maintenance
