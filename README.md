@@ -1,7 +1,7 @@
 ![Project Logo](https://github.com/xscode-resources/promotion-materials/blob/master/assets/valueopensource%20logo%20for%20README.png)
 
 # Public-README-Sample
-This repository is an example for a good public repository README page, and is here to provide you with ideas and assets to use in your readme files. Readme file are critical for helping your users understand what you are offering, and helps make your repository appear more professional, well maintained, useful, and easy to use.
+This repository is an example for a good public repository README page, and is here to provide you with ideas and assets to use in your readme files. Readme file are critical for helping your users understand what you are offering, and helps make your repository appear more professional, well maintained, useful, and easy to use. You don't have to use all the elements on this readme, but the more information you provide in your readme file, the better.
 
 ***Note** - There is a difference between the 'Read me' page of your public repository and the private one, according to the monetization path you chose. Make sure to use your public readme file to send users to your xscode repository page, with an explenation on how you monetize your code.
 
@@ -73,19 +73,8 @@ Subscribe to this project on [xs:code](https:xscode.com/repositories/xx) and get
 
 ----
 
-
-
-## Demo / Demo GIF
-Make a GIF with any GIF maker / screen recorder and show users how this project works.
-
-![Demo GIF](https://github.com/xscode-resources/promotion-materials/blob/master/assets/DemoGIF.gif)
-
-> *via @Beedigital.net on [GIPHY](https://media.giphy.com/media/sM7c9dEXTQlEc/source.gif)*
-
-Check out the [Demo](https://xscode.com) (Add a real link to your demo version)
-
 ## Table of Contents
-You can include a table of contents in order to allow other developers to navigate
+You can include a table of contents in order to allow other developers to navigate your readme file.
 
 (especially if you have a long and detailed README).
 
@@ -105,6 +94,15 @@ You can include a table of contents in order to allow other developers to naviga
 * [Support & Maintenance](#support_&_maintenance)
 * [Licensing](#licensing)
 <!--te-->
+
+## Demo / Demo GIF
+Make a GIF with any GIF maker / screen recorder and show users how your project works.
+
+![Demo GIF](https://github.com/xscode-resources/promotion-materials/blob/master/assets/DemoGIF.gif)
+
+> *via @Beedigital.net on [GIPHY](https://media.giphy.com/media/sM7c9dEXTQlEc/source.gif)*
+
+Check out the [Demo](https://xscode.com) (Add a real link to your demo version)
 
 
 ## Prerequisites
@@ -162,41 +160,19 @@ make install
 ```
 
 ## Documentaion
-Here add a link to your Documentation file.
-it's very important to have a well and updated documentation of your project.
-Check out this great and easy documentaion tool - [docusaurus.io](https://docusaurus.io/) 
+Add a link to your Documentation. It's important to have a detailed and current documentation of your project.
+Check out this great and easy documentaion tool - [docusaurus.io](https://docusaurus.io/) for easily creating documentation for your project.
 
 
 ## What's Included? (Features)
-Here add a list of the features included in the project.
+Add a list of the features included in the project.
 
 * The main functionality of this project
 * Does another thing
-* Also do this - Available only in the license version at xs:code
-* And more - Available only in the license version at xs:code
+* Also do this - Available only in the licensed version at xs:code
+* And more - Available only in the licensed version at xs:code
 
-***Note** - Some features are only available in the Premmisive license version at [xs:code](https://xscode.com)
-
-## Configuration
-
-Here you should write what are all of the configurations a user can enter when
-using the project.
-
-#### Argument 1
-Type: `String`  
-Default: `'default value'`
-
-#### Argument 2
-Type: `Number|Boolean`  
-Default: 120
-
-State what the argument does and how you can use it. If needed, provide
-an example.
-
-Example:
-```bash
-Public-README-Sample "Some other value"  # Prints "Starting to look like a great README!"
-```
+***Note** - Some features are only available in paid version at [xs:code](https://xscode.com)
 
 ## Contributing
 Contributions are always welcome!
@@ -205,30 +181,16 @@ branch.
 
 ***Note** - Add a link to 'CONTRIBUTING.md' file for deatils on your code of conduct, and the process for submitting pull requests to you.
 
-## Links
+IMPORTANT! Before contributions can be accepted, please fill and sign a CLA, and send it to my@email.com.
+Contributions without a signed CLA cannot be accepted. Find a CLA here: <link to CLA file>
 
-Even though this information can be found inside the project on machine-readable
-format like in a .json file, it's good to include a summary of most useful
-links to developers that are using your project. You can include links like:
-
-- Project homepage: https://xscode.com/
-- Repository: https://github.com/xscode-com/Public-README-Sample
-- Issue tracker: https://github.com/xscode-com/Public-README-Sample/issues
-
-***Note** - In case of sensitive bugs like security vulnerabilities, please contact
-    support@xscode.com directly instead of using issue tracker.
-    We value your effort to improve the security of this project!
-    
-- Related projects:
-  - A link to the Premmisive MIT license version of this project: https://cp.xscode.com/repositories/8
-  
+ 
  ## Support & Maintenance
   ***Note** -  Support & Maintenance are only available in the Premmisive MIT license version at [xs:code](https://cp.xscode.com/repositories/8)
   
  ## Contributors
- A Huge thank you to all our contributors for the maintaining and support  this project.
- Keep on making it better!
-   
+ A Huge thank you to all our contributors for maintaining and supporting this project.
+    
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
 <table>
@@ -246,5 +208,5 @@ links to developers that are using your project. You can include links like:
  This repository made with :blue_heart: by xs:code
 
  ## Licensing
- This project is licensed under the [GPL-3.0 license](https://github.com/DekelKan/Public-README-Sample/blob/master/LICENSE).
+ This project is licensed under the **GPL-3.0 license.**
 
