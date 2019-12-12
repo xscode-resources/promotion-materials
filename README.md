@@ -1,4 +1,4 @@
-![Project Logo](https://github.com/xscode-resources/promotion-materials/blob/master/https://github.com/xscode-resources/promotion-materials/blob/master/assets/valueopensource%20logo%20for%20README.png)
+![Project Logo](https://github.com/xscode-resources/promotion-materials/blob/master/assets/valueopensource%20logo%20for%20README.png)
 
 # Public-README-Sample
 This repository is an example for a good public repository README page.
@@ -30,7 +30,7 @@ Check out [Shields.io](https://Shields.io) to use or make your own badges:
 Make sure to include an explantion on how you monetize your repository, and how your paid version is different than the one offered for free on Github. Use one of these assets and texts in your readme.md file, to help your users get started quickly.
 
 
-![](https://github.com/xscode-resources/promotion-materials/blob/master/https://github.com/xscode-resources/promotion-materials/blob/master/assets/Dual-license-badge.gif)
+![](https://github.com/xscode-resources/promotion-materials/blob/master/assets//Dual-license-badge.gif)
 
 Starting from version 0.0.0.0, this project is licensed under the **GPLv3** license.
 For a **MIT** licensed version, visit [xs:code](https:xscode.com/repositories/xx)
@@ -38,7 +38,7 @@ For a **MIT** licensed version, visit [xs:code](https:xscode.com/repositories/xx
 
 ----
 
-![](https://github.com/xscode-resources/promotion-materials/blob/master/https://github.com/xscode-resources/promotion-materials/blob/master/assets/Open-Core-Badge.gif)
+![](https://github.com/xscode-resources/promotion-materials/blob/master/assets//Open-Core-Badge.gif)
 
 This project is offered as open-core, with the following **extra features** available on [xs:code](https:xscode.com/repositories/xx):
 
@@ -50,7 +50,7 @@ This project is offered as open-core, with the following **extra features** avai
 
 ----
 
-![](https://github.com/xscode-resources/promotion-materials/blob/master/https://github.com/xscode-resources/promotion-materials/blob/master/assets/Services-Badge.gif)
+![](https://github.com/xscode-resources/promotion-materials/blob/master/assets//Services-Badge.gif)
 
 Subscribe to this project on [xs:code](https:xscode.com/repositories/xx) and get 5 monthly support hours.
 
@@ -58,19 +58,19 @@ Subscribe to this project on [xs:code](https:xscode.com/repositories/xx) and get
 ----
 
 
-![](https://github.com/xscode-resources/promotion-materials/blob/master/https://github.com/xscode-resources/promotion-materials/blob/master/assets/https://github.com/xscode-resources/promotion-materials/blob/master/assets/available-on-xscode.jpg)
+![](https://github.com/xscode-resources/promotion-materials/blob/master/assets//https://github.com/xscode-resources/promotion-materials/blob/master/assets/available-on-xscode.jpg)
 
 ----
 
-![](https://github.com/xscode-resources/promotion-materials/blob/master/https://github.com/xscode-resources/promotion-materials/blob/master/assets/https://github.com/xscode-resources/promotion-materials/blob/master/assets/mit-available.jpg)
+![](https://github.com/xscode-resources/promotion-materials/blob/master/assets//https://github.com/xscode-resources/promotion-materials/blob/master/assets/mit-available.jpg)
 
 ----
 
-![](https://github.com/xscode-resources/promotion-materials/blob/master/https://github.com/xscode-resources/promotion-materials/blob/master/assets/https://github.com/xscode-resources/promotion-materials/blob/master/assets/more-features.jpg)
+![](https://github.com/xscode-resources/promotion-materials/blob/master/assets//https://github.com/xscode-resources/promotion-materials/blob/master/assets/more-features.jpg)
 
 ----
 
-![](https://github.com/xscode-resources/promotion-materials/blob/master/https://github.com/xscode-resources/promotion-materials/blob/master/assets/https://github.com/xscode-resources/promotion-materials/blob/master/assets/services-available.jpg)
+![](https://github.com/xscode-resources/promotion-materials/blob/master/assets//https://github.com/xscode-resources/promotion-materials/blob/master/assets/services-available.jpg)
 
 ----
 
