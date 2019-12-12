@@ -1,18 +1,14 @@
 ![Project Logo](https://github.com/xscode-resources/promotion-materials/blob/master/assets/valueopensource%20logo%20for%20README.png)
 
-***Note** - Add a project logo or a banner - You can use [Canva](https://www.canva.com) to make your own logo and make it look more professional,  or you can pay a few dollars for logo at [Fiverr](https://www.fiverr.com) or similar alternative.
-
 # Public-README-Sample
 This repository is an example for a good public repository README page.
-One of the most crucial things in your open source project is the README.md file, make your repository look good, useful, easy to understand and use.
+One of the most crucial things in your open source project is the README.md file. It helps make your repository appear more professional, well maintained, useful, and easy to use.
 
-***Note** - There is a difference between the 'Read me' page of your public repository and the private one, according to the monetization path you've chose.
-For example, if you choose the 'Dual Licens' model, you should write in your public (GPL copyleft) license repository what extra features can be found in the private MIT license at [xs:code](https://cp.xscode.com/repositories/8) and of course add a link to it,
-another example, if you chose the 'Open Core - Freemium' model, you should also attach a link and  write in the public repository the maintanance and support offers for the Pro version.
+***Note** - There is a difference between the 'Read me' page of your public repository and the private one, according to the monetization path you chose. Make sure to use your public readme file to send users to your xscode repository page, with an explenation on how you monetize your code.
 
 ## Static Code Analysis
 
-Make it easy for users to see the project progress and many other indicators,
+Make it easy for users to see the project progress and  other indicators,
 Check out [Shields.io](https://Shields.io) to use or make your own badges:
 
 ![](https://img.shields.io/badge/Available%20on-xs%3Acode-blue?style=?style=plastic&logo=appveyor&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAAZQTFRF////////VXz1bAAAAAJ0Uk5T/wDltzBKAAAAlUlEQVR42uzXSwqAMAwE0Mn9L+3Ggtgkk35QwcnSJo9S+yGwM9DCooCbgn4YrJ4CIPUcQF7/XSBbx2TEz4sAZ2q1RAECBAiYBlCtvwN+KiYAlG7UDGj59MViT9hOwEqAhYCtAsUZvL6I6W8c2wcbd+LIWSCHSTeSAAECngN4xxIDSK9f4B9t377Wd7H5Nt7/Xz8eAgwAvesLRjYYPuUAAAAASUVORK5CYII=&link=https://xscode.com
