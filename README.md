@@ -207,7 +207,7 @@ Contributions without a signed CLA cannot be accepted. Find a CLA here: <link to
 
  ***Note** - You can also use the [Emoji Key](https://allcontributors.org/docs/en/emoji-key) and [all-contributors bot](https://allcontributors.org/docs/en/bot/overview) to automate acknowledging contributors to your projects.
   
- ## Autor
+ ## Author
  This repository was made with :blue_heart: by xs:code
 
  ## Licensing
