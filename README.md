@@ -1,8 +1,7 @@
 ![Project Logo](https://github.com/xscode-resources/promotion-materials/blob/master/assets/valueopensource%20logo%20for%20README.png)
 
 # Public-README-Sample
-This repository is an example for a good public repository README page.
-One of the most crucial things in your open source project is the README.md file. It helps make your repository appear more professional, well maintained, useful, and easy to use.
+This repository is an example for a good public repository README page, and is here to provide you with ideas and assets to use in your readme files. Readme file are critical for helping your users understand what you are offering, and helps make your repository appear more professional, well maintained, useful, and easy to use.
 
 ***Note** - There is a difference between the 'Read me' page of your public repository and the private one, according to the monetization path you chose. Make sure to use your public readme file to send users to your xscode repository page, with an explenation on how you monetize your code.
 
@@ -106,11 +105,10 @@ You can include a table of contents in order to allow other developers to naviga
 * [Support & Maintenance](#support_&_maintenance)
 * [Licensing](#licensing)
 <!--te-->
-***Note** - The table of contents is **Optionally**.
 
 
 ## Prerequisites
-Here you should say what prerequisites you need to have in order to use the project.
+State the prerequisites needed to use or install your project.
 
 ### System Requirements:
 * [Ruby](http://www.ruby-lang.org/en/) >= 2.2.5
