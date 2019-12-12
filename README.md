@@ -137,7 +137,7 @@ This is the section where you would document those requirements.
 Instruct developers on how to use your project after they’ve installed it.
 This would also be a good place to include screenshots of your project in action.
 
-![screenshot](https://github.com/xscode-resources/promotion-materials/blob/master/assets/screenshot1.png)
+![screenshot](https://github.com/xscode-resources/promotion-materials/blob/master/assets/screenshot-app.jpg)
 
 ## Running tests
 Explain how to run the automated tests for this project
