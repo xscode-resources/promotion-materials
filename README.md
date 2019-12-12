@@ -1,6 +1,6 @@
 ![Project Logo](https://github.com/xscode-resources/promotion-materials/blob/master/assets/valueopensource%20logo%20for%20README.png)
 
-# Public-README-Sample
+# Readme.md file example and assets
 This repository is an example for a good public repository README page, and is here to provide you with ideas and assets to use in your readme files. Readme file are critical for helping your users understand what you are offering, and helps make your repository appear more professional, well maintained, useful, and easy to use. You don't have to use all the elements on this readme, but the more information you provide in your readme file, the better.
 
 ***Note** - There is a difference between the 'Read me' page of your public repository and the private one, according to the monetization path you chose. Make sure to use your public readme file to send users to your xscode repository page, with an explenation on how you monetize your code.
