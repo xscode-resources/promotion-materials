@@ -216,5 +216,5 @@ Contributions without a signed CLA cannot be accepted. Find a CLA here: <link to
  This repository was made with :blue_heart: by xs:code
 
  ## Licensing
- This project is licensed under the **GPL-3.0 license.**
+ This project is licensed under the **MIT license.**
 
