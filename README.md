@@ -65,12 +65,12 @@ For added visibility, add our badge, and change the URL to direct to your reposi
 
 Additionally, use these other badge options to provide more information about your project:
 
-![version](https://img.shields.io/badge/version-0.0.1-blue)
+![version](https://img.shields.io/badge/version-0.0.2-blue)
 ![build](https://img.shields.io/badge/build-passing-success)
 ![contributors](https://img.shields.io/badge/Contributors-4-brightgreen)
-![coverage](https://img.shields.io/badge/coverage-90%25-yellowgreen)
-![backers](https://img.shields.io/badge/backers-1-green)
-![downloads](https://img.shields.io/badge/downloads-10k%2Fmonth-blue)
+![coverage](https://img.shields.io/badge/coverage-93%25-yellowgreen)
+![backers](https://img.shields.io/badge/backers-2-green)
+![downloads](https://img.shields.io/badge/downloads-10M%2Fmonth-blue)
 ![dependencies](https://img.shields.io/badge/dependencies-out%20of%20date-orange)
 ![code analysis grade](https://img.shields.io/badge/code%20analysis%20grade-A-green)
 ![rating](https://img.shields.io/badge/rating-★★★★☆-green)
