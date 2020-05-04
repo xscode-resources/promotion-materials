@@ -197,18 +197,7 @@ Contributions without a signed CLA cannot be accepted. Find a CLA here: <link to
   
  ## Contributors
  A Huge thank you to all our contributors for maintaining and supporting this project.
-    
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
-<table>
-  <tr>
-      <td align="center"><a href="https://github.com/DekelKan"><img src="https://xscode.com/wp-content/uploads/2019/09/dekel-kan-1.png" width="100px;" alt="Dekel Kan"/><br /><sub><b>Dekel Kan</b></sub></a><br /><a href="https://github.com/DekelKan/a.all-contributorsrc/commits?author=DekelKan" title="Code">💻</a> 
-     <td align="center"><a href="https://github.com/chenravid-xs"><img src="https://xscode.com/wp-content/uploads/2019/09/Chen-Ravid.png" width="100px;" alt="Chen Ravid"/><br /><sub><b>Chen Ravid</b></sub></a><br /><a href="https://github.com/DekelKan/a.all-contributorsrc/commits?author=DekelKan" title="Code">💻</a> 
-    <td align="center"><a href="https://github.com/nmohoni"><img src="https://xscode.com/wp-content/uploads/2019/09/Netnael-Mohoni.png" width="100px;" alt="Netnael Mohoni"/><br /><sub><b>Netnael Mohoni</b></sub></a><br /><a href="https://github.com/DekelKan/a.all-contributorsrc/commits?author=DekelKan" title="Code">💻</a>
-         <td align="center"><a href="https://twitter.com/Helad11"><img src="https://xscode.com/wp-content/uploads/2019/09/Elad_Adir.gif" width="100px;" alt="Elad Adir"/><br /><sub><b>Elad Adir</b></sub></a><br /><a href="https://github.com/DekelKan/a.all-contributorsrc/commits?author=DekelKan" title="Code">💻</a>
-  </tr>
-</table>
-
+   
  ***Note** - You can also use the [Emoji Key](https://allcontributors.org/docs/en/emoji-key) and [all-contributors bot](https://allcontributors.org/docs/en/bot/overview) to automate acknowledging contributors to your projects.
   
  ## Author
