@@ -77,6 +77,7 @@ Additionally, use these other badge options to provide more information about yo
 ![Gitter](https://img.shields.io/gitter/room/Value_open_source/community)
 ![Twitter Follow](https://img.shields.io/twitter/follow/xscode1?style=social)
 ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/ValueOpenSource?style=social)
+[![Contact Info](https://img.shields.io/badge/Contact%20Info-support@xscode.com-blue.svg)]()
 
 
 ## Table of Contents
