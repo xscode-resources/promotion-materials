@@ -18,6 +18,37 @@ Here's the markdown code for the badge:
 )
 ```
 
+## Monetization model
+Make sure to include an explantion on how you monetize your repository, and how your paid version is different than the one offered for free on Github. Use one of these assets and texts in your readme.md file, to help your users get started quickly.
+
+
+![](https://github.com/xscode-resources/promotion-materials/blob/master/assets/Dual-license-badge.gif)
+
+Starting from version 0.0.0.0, this project is licensed under the **GPLv3** license.
+For a **MIT** licensed version, visit [xs:code](https:xscode.com/repositories/xx)
+
+
+----
+
+![](https://github.com/xscode-resources/promotion-materials/blob/master/assets/Open-Core-Badge.gif)
+
+This project is offered as open-core, with the following **extra features** available on [xs:code](https:xscode.com/repositories/xx):
+
+* Multi language support
+* Framework compatibility
+* Monthly updates
+* Extra modules
+* Etc.
+
+----
+
+![](https://github.com/xscode-resources/promotion-materials/blob/master/assets/Services-Badge.gif)
+
+Subscribe to this project on [xs:code](https:xscode.com/repositories/xx) and get 5 monthly support hours.
+
+
+----
+
 ## xs:code banners
 ----
 
