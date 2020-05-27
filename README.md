@@ -5,6 +5,12 @@ This repository is an example for a good public repository README page, and is h
 
 Use one of these assets and texts in your readme.md file, to help your users get started quickly.
 
+## Add the Supported Repository banner
+Let your users know this is a supported and maintained repository. Show what paid items you are offering.
+*Change the URL to direct to your repository URL on xs:code.
+
+[![](https://github.com/xscode-resources/promotion-materials/blob/master/assets/xscode-banner.svg)](https://xscode.com)
+
 ## Add the xs:code badge
 Let your users know you have paid item available by adding our badge, and change the URL to direct to your repository URL on xs:code.
 
