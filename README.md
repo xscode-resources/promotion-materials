@@ -11,6 +11,13 @@ Let your users know this is a supported and maintained repository. Show what pai
 
 [![](https://github.com/xscode-resources/promotion-materials/blob/master/assets/xscode-banner.svg)](https://xscode.com)
 
+Be sure to include an brief explantion on what you are offering.
+
+Here's the markdown code for the banner:
+```
+[![](https://github.com/xscode-resources/promotion-materials/blob/master/assets/xscode-banner.svg)](https://xscode.com)
+```
+
 ## Add the xs:code badge
 Let your users know you have paid item available by adding our badge, and change the URL to direct to your repository URL on xs:code.
 
