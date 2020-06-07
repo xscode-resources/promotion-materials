@@ -7,8 +7,9 @@ Use one of these assets and texts in your readme.md file, to help your users get
 
 ## Add the Supported Repository banner
 
-Let your users know you have paid item available by adding our banner, and change the URL to direct to your repository URL on xs:code.
+Let your users know you have paid item available by adding our banner, and change the URL to direct to your repository URL on xs:code.<br>
 <br>
+
 [![](https://github.com/xscode-resources/promotion-materials/blob/master/assets/xscode-banner-s.svg?raw=true)](https://xscode.com)<br>
 <br>
 Be sure to include an brief explantion on what you are offering.
